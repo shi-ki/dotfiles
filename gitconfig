@@ -1,0 +1,8 @@
+[user]
+	name = shi-ki
+	email = shi-ki@example.com
+[color]
+	ui = auto
+[core]
+	editor = vim
+	pager = less
