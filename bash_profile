@@ -8,3 +8,4 @@ eval $(gdircolors Dropbox/dotfiles/dircolors.ansi-universal)
 
 source /Library/Developer/CommandLineTools/usr/share/git-core/git-prompt.sh
 source /Library/Developer/CommandLineTools/usr/share/git-core/git-completion.bash
+source /usr/local/Library/Contributions/brew_bash_completion.sh
